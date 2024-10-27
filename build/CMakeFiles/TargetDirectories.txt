@@ -1,0 +1,3 @@
+/home/sergiu/Courses/ParallelComputing/Satellites/build/CMakeFiles/parallel.dir
+/home/sergiu/Courses/ParallelComputing/Satellites/build/CMakeFiles/edit_cache.dir
+/home/sergiu/Courses/ParallelComputing/Satellites/build/CMakeFiles/rebuild_cache.dir

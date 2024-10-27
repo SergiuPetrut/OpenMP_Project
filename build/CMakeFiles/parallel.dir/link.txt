@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/parallel.dir/parallel.c.o -o parallel  /usr/lib/libSDL2main.a /usr/lib/libSDL2-2.0.so.0.3000.8 -lm /usr/lib/libgomp.so /usr/lib/libpthread.a
